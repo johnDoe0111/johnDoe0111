@@ -7,5 +7,5 @@
 </h3>
 
 <h4>bootcamp-adaptive:</h4>
-https://github.com/johnDoe0111/adaptive.git
+https://github.com/johnDoe0111/adaptive.git <b/>
 https://github.com/johnDoe0111/adaptive2.git
