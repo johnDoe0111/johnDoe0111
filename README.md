@@ -10,4 +10,4 @@
 <h5><a href="https://github.com/johnDoe0111/adaptive.git">https://github.com/johnDoe0111/adaptive.git</a></h5>
 <h5><a href="https://github.com/johnDoe0111/adaptive2.git">https://github.com/johnDoe0111/adaptive2.git</a></h5>
 
-<h4>bootcamp react-apps</h4>
+<h4>bootcamp react-apps:</h4>
