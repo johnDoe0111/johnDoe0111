@@ -17,4 +17,6 @@
   <h5><a href="https://github.com/johnDoe0111/Typescript-ToDo.git">Typescript-ToDo</a></h5>
 <h4>Pet Projects:</h4>
   <h5><a href="https://github.com/johnDoe0111/Clone-Instagram-App.git">Clone-Instagram-App</a></h5>
-  <h5>React Native:</h5>
+  <h5><a href="https://github.com/johnDoe0111/React-Native-Clone-Instagram-App.git">React-Native-Clone-Instagram-App</a></h5>
+<h4>React Native:</h4>
+  <h5><a href="https://github.com/johnDoe0111/React-Native-Clone-Instagram-App.git">React-Native-Clone-Instagram-App</a></h5>
