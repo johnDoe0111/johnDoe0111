@@ -15,3 +15,4 @@
   <h5><a href="https://github.com/johnDoe0111/Weather-App.git">Weather-App</a></h5>
   <h5><a href="https://github.com/johnDoe0111/Redux-ToDo-App.git">Redux-ToDo-App</a></h5>
   <h5><a href="https://github.com/johnDoe0111/Typescript-ToDo.git">Typescript-ToDo</a></h5>
+<h4>Pet Projects:</h4>
