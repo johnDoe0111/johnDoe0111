@@ -24,3 +24,4 @@
 <h4>Test tasks:</h4>
   <h5><a href="https://github.com/johnDoe0111/Cards-Test-Task.git">Mock-Cards-Test-Task</a></h5>
   <h5><a href="https://github.com/johnDoe0111/amoCRM-test-task">amoCRM-Test-Task</a></h5>
+  <h5><a href="https://github.com/johnDoe0111/fractal-test-task">fractal-test-task</a></h5>
