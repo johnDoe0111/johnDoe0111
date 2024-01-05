@@ -19,6 +19,7 @@
   <h5><a href="https://github.com/johnDoe0111/Clone-Instagram-App.git">Clone-Instagram-App</a></h5>
   <h5><a href="https://github.com/johnDoe0111/React-Native-Clone-Instagram-App.git">React-Native-Clone-Instagram-App</a></h5>
   <h5><a href="https://github.com/johnDoe0111/Next-App-Car-Showcase.git">Next-App-Car-Showcase</a></h5>
+  <h5><a href="https://github.com/johnDoe0111/3D-Portfolio-Three.js">3D-Portfolio-Three.js</a></h5>
 <h4>React Native:</h4>
   <h5><a href="https://github.com/johnDoe0111/React-Native-Clone-Instagram-App.git">React-Native-Clone-Instagram-App</a></h5>
 <h4>Test tasks:</h4>
